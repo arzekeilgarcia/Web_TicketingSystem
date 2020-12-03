@@ -4,6 +4,7 @@ A Web Application for handling IT Tickets
 * Database (MongoDB)
 * Login Authentication
 * Form Submition
+* Encrypting Data
 
 ### Tools
 * Node.js
